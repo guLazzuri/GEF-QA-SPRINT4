@@ -61,7 +61,6 @@ O **GEF-QA-SPRINT4** representa a sprint de qualidade da aplicação GEF, focada
 📦 Testes Manuais
 🤖 Testes Automatizados
 📝 Documentação Técnica
-🔄 CI/CD Pipeline
 📊 Relatórios de Qualidade
 ```
 
