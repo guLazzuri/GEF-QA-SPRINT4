@@ -30,17 +30,18 @@ O **GEF-QA-SPRINT4** representa a sprint de qualidade da aplicação GEF, focada
   
 ### 📺 Vídeo Completo da Aplicação
 
-[![Assista no YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/6tevybmuTGU)
+<a href="https://youtu.be/6tevybmuTGU" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Assista no YouTube">
+</a>
 
 **Link Direto:** `https://youtu.be/6tevybmuTGU`
+
 </div>
 
 **O que você vai encontrar no vídeo:**
 - 🔧 Configuração completa do ambiente de testes
 - ▶️ Execução passo a passo dos testes automatizados
 - ✔️ Validação de resultados nas ferramentas integradas
-
-</div>
 
 ---
 
@@ -50,7 +51,9 @@ O **GEF-QA-SPRINT4** representa a sprint de qualidade da aplicação GEF, focada
 
 ### 🏢 Organization Principal
 
-[![Azure DevOps](https://img.shields.io/badge/Acessar_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://dev.azure.com/GEF-ORGANIZATION/GEF)
+<a href="https://dev.azure.com/GEF-ORGANIZATION/GEF" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Acessar_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps">
+</a>
 
 **Link Direto:** `https://dev.azure.com/GEF-ORGANIZATION/GEF`
 
