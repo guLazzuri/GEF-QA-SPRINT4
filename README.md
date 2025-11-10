@@ -30,7 +30,8 @@ O **GEF-QA-SPRINT4** representa a sprint de qualidade da aplicação GEF, focada
   
 ### 📺 Vídeo Completo da Aplicação
 
-[![Assista no YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/6tevybmuTGU)]
+[![Assista no YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/6tevybmuTGU)
+
 **Link Direto:** `https://youtu.be/6tevybmuTGU`
 
 **O que você vai encontrar no vídeo:**
