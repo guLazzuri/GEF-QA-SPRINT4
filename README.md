@@ -1,29 +1,98 @@
-🧠 GEF-QA-SPRINT4
-🎯 Descrição do Projeto
+# 🧠 GEF-QA-SPRINT4
 
-O GEF-QA-SPRINT4 faz parte da sprint de qualidade da aplicação GEF, voltada para a criação, execução e documentação de testes manuais e automatizados.
-O objetivo é garantir a confiabilidade, estabilidade e rastreabilidade das funcionalidades desenvolvidas no sistema, seguindo boas práticas de QA e integração com o Azure DevOps.
+<div align="center">
+  
+  ![Quality Assurance](https://img.shields.io/badge/QA-Testing-blue?style=for-the-badge&logo=testing-library&logoColor=white)
+  ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
+  ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
-🎥 Demonstração em Vídeo
+</div>
 
-🔗 Link do vídeo no YouTube:
-👉 https://youtu.be/6tevybmuTGU
+---
 
-O vídeo apresenta:
+## 📋 Sobre o Projeto
 
-A configuração do ambiente de testes.
+O **GEF-QA-SPRINT4** representa a sprint de qualidade da aplicação GEF, focada em garantir a excelência através de testes rigorosos e documentação detalhada.
 
-A execução dos testes automatizados.
+### 🎯 Objetivos Principais
 
-A validação dos resultados nas ferramentas utilizadas.
+- ✅ **Confiabilidade** - Garantir que todas as funcionalidades operem conforme esperado
+- 🔄 **Estabilidade** - Manter a consistência do sistema em diferentes cenários
+- 📊 **Rastreabilidade** - Documentar todos os testes e seus resultados
+- 🏗️ **Boas Práticas** - Seguir os padrões de qualidade da indústria
+- 🔗 **Integração Contínua** - Conexão total com Azure DevOps
 
-☁️ Azure DevOps
+---
 
-🔗 Link da Organization no Azure DevOps:
-👉 https://dev.azure.com/GEF-ORGANIZATION/GEF
+## 🎥 Demonstração
 
-👨‍💻 Desenvolvedor Responsável
+<div align="center">
+  
+### 📺 Vídeo Completo da Aplicação
 
-Gustavo Ramires Lazzuri
-Desenvolvedor Full Stack | Engenheiro de IA
+[![Assista no YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/6tevybmuTGU)
+
+**O que você vai encontrar no vídeo:**
+- 🔧 Configuração completa do ambiente de testes
+- ▶️ Execução passo a passo dos testes automatizados
+- ✔️ Validação de resultados nas ferramentas integradas
+
+</div>
+
+---
+
+## ☁️ Azure DevOps
+
+<div align="center">
+
+### 🏢 Organization Principal
+
+[![Azure DevOps](https://img.shields.io/badge/Acessar_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)](https://dev.azure.com/GEF-ORGANIZATION/GEF)
+
+**Link Direto:** `https://dev.azure.com/GEF-ORGANIZATION/GEF`
+
+</div>
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+```
+📦 Testes Manuais
+🤖 Testes Automatizados
+📝 Documentação Técnica
+🔄 CI/CD Pipeline
+📊 Relatórios de Qualidade
+```
+
+---
+
+## 👨‍💻 Desenvolvedor
+
+<div align="center">
+
+### **Gustavo Ramires Lazzuri**
+
+*Desenvolvedor Full Stack | Engenheiro de IA*
+
 📍 São Paulo - Brasil
+
+---
+
+<sub>Desenvolvido com 💙 para garantir a máxima qualidade do sistema GEF</sub>
+
+</div>
+
+---
+
+## 📄 Licença
+
+Este projeto faz parte do ecossistema GEF e segue as políticas internas de desenvolvimento e qualidade.
+
+---
+
+<div align="center">
+  
+**GEF-QA-SPRINT4** - Qualidade em Primeiro Lugar 🎯
+
+</div>
